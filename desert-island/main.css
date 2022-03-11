@@ -1,0 +1,12 @@
+body {
+    background-color: lightyellow;
+}
+img {
+display: block;
+width: 50%;
+margin: auto;
+text-align: center;
+border-radius: 2px;
+border-style: groove;
+border-color: mediumaquamarine;
+}
